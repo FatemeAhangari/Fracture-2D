@@ -10,22 +10,29 @@ In this repository, KI and GI as critical parameters in investigating frcture of
 
 ## Input Data
 
-The part configuration and material property are presented in Figure 1.
-
-
+The part configuration and material property are presented in Figure 1. 2D and 3D configuartions are prsented in Figure 2, 3.
 
 <p align="center">
-  <img src="images/Fig_5.PNG" alt="Image Alt Text" width = 500>
+  <img src="images/Fig_1.png" alt="Image Alt Text" width = 500>
 </p>
 
+<p align="center">
+  <img src="images/Fig_2.png" alt="Image Alt Text" width = 500>
+</p>
+
+<p align="center">
+  <img src="images/Fig_4.png" alt="Image Alt Text" width = 500>
+</p>
 
 
 ## Mesh Study and Crack Tip Elements
 Meticulous meshing with enhanced density around the crack tip ensures precise resolution, as depicted in Figure 2, with crack tip elements measuring 0.1 mm for accuracy.
 
+
 <p align="center">
-  <img src="images/Fig_5.PNG" alt="Image Alt Text" width = 500>
+  <img src="images/Fig_3.png" alt="Image Alt Text" width = 500>
 </p>
+
 
 
 ## Results & Additional Information
